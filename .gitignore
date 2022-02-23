@@ -1,0 +1,8 @@
+# Resource directory
+test_data/
+
+# Virutal environment
+venv/
+
+# IntelliJ
+.idea/
